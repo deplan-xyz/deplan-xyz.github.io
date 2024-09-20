@@ -41465,8 +41465,10 @@ o=q.a
 n=o.a.c
 s=2
 return A.F(p.yq(n.a,n.c),$async$$0)
-case 2:o.wM(o.a.c.b)
-o.aa7()
+case 2:n=o.wM(o.a.c.b)
+s=3
+return A.F(n,$async$$0)
+case 3:o.aa7()
 return A.A(null,r)}})
 return A.B($async$$0,r)},
 $S:9}
